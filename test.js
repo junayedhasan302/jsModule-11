@@ -1,0 +1,1 @@
+console.log(`"git init\ngit add .\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:junayedhasan302/jsModule-11.git\ngit push -u origin main"`);
