@@ -20,6 +20,5 @@ let user2 = {
 const getCity = (user) => {
   return user.address?.city;
 };
-
 console.log(getCity(user1));
 console.log(getCity(user2));
